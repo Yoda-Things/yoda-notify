@@ -14,7 +14,7 @@ exports['yoda-notify']:notify({
   type = "success",                      -- Required ("success", "error", or "info")  
   duration = 6000                        -- Optional (default: 5000 ms)  
 })
-
+```
 
 ✅ Parameters:
 
