@@ -25,4 +25,6 @@ exports['yoda-notify']:notify({
 |type	       |  string |  ✅ Yes	 |  Type of notification ("success", "error", or "info"). |
 |duration	   |  number |  ❌ No	 |  Display duration in milliseconds (default: 5000).     |
 
-💡 Easily integrate Yoda Notify into your FiveM scripts for a polished notification experience! 🚀
+💡 Easily integrate Yoda Notify into your FiveM scripts for a polished notification experience! 🚀  
+
+📖 **Documentation:** [Yoda Notify Documentation](https://yoda-things.gitbook.io/yoda-things-documentation/free-resources/notify-system)
